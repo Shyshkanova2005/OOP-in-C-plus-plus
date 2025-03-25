@@ -1,0 +1,3 @@
+﻿  autozavod.cpp
+D:\ШАГ\C++\dz\autozavod\autozavod.cpp(105): warning C4715: 'carInfo': not all control paths return a value
+  autozavod.vcxproj -> D:\ШАГ\C++\dz\autozavod\x64\Debug\autozavod.exe
